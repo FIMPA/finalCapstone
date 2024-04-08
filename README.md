@@ -1,17 +1,17 @@
-# [TASK MANAGER]
+# TASK MANAGER
  
 This Code project consists of managing tasks, by enabling users to add, to view 
 or to edit tasks upon registration. Administrators registered can also display 
 statistics on terminal from generated reports which check users' tasks that are 
 completed, overdue, incomplete.
 
-## [Contents]
+## Contents
 
 1. Installation
 2. Usage
 3. Credits
 
-### [Installation]
+### Installation
 
 Copy the URL of this repository, then go to your IDE (Visual Studio Code highly
 recommended) and run a new terminal on an appropriate directory. On your
@@ -19,7 +19,7 @@ terminal type _git clone repository URL_ and press ENTER. This will add the repo
 your directory. Once you have changed the directory to the newly added folder the
 program is ready for use.
 
-### [Usage]
+### Usage
 
 Before using the program make sure that on VSCode you are using at least the basic
 Python extension so that you can click on the 'play' icon on the top right of the
@@ -63,7 +63,7 @@ the terminal. If the 'Generate reports' option has not yet been executed this
 option will not be processed.
 
 
-### [Credits]
+### Credits
 Initial collaboration by staff at HyperionDev
 Editions of 'Registering a user', 'View my task' and 'Display statistics' sections 
 and addition of 'Generate reports' section and functions by myself.
