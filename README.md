@@ -25,6 +25,9 @@ Before using the program make sure that on VSCode you are using at least the bas
 Python extension so that you can click on the 'play' icon on the top right of the
 screen to run the code.
 
+![image](https://github.com/FIMPA/finalCapstone/assets/154478231/543c320e-eb84-4bbc-a1b4-4aa08ece6d9b)
+
+
 
 Once the program is run, you will be asked it will to enter your username and your
 password.  'admin' is a default username and a default password is
