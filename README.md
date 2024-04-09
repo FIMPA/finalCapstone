@@ -30,6 +30,9 @@ Once the program is run, you will be asked it will to enter your username and yo
 password.  'admin' is a default username and a default password is
 'password'. Once logged in, a series of options will be displayed:
 
+![image](https://github.com/FIMPA/finalCapstone/assets/154478231/c16e7640-1cce-4c5e-babe-19cda4af9a5b)
+
+
 The 'Registering a user' option allows you to add a new user to the corresponding
 textfile user.txt inputting their username and password. Every user registered can 
 access the programme typing in their username and password. However, default 
